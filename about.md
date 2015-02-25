@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[maiotome](mailto:buaaxzl@163.com)
+[buaaxzl@163.com](mailto:buaaxzl@163.com)
