@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: 此站第一篇博客
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+今天成功创建好了博客。弄了一段时间，主要还是纠结于各种不同的主题。现在还不会markdown，待会儿学学。都说万事开头难，我觉得写博客开头还是很简单的，难的应该是以后的坚持。
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+我申请的这个域名也是够霸气的，竟然没人申请，我先这样用着，要是以后觉得有合适的就换了。
