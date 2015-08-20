@@ -8,7 +8,6 @@ permalink: /about/
 
 ### More Information
 
-保密。能征女朋友吗？！
 
 ### Contact me
 
