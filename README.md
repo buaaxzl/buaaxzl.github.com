@@ -1,1 +1,1 @@
-my blog : http://buaa.info
+This is my blog : http://buaa.info
