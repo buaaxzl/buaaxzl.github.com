@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-本人现就读于北航计算机学院11级。
+本人现就读于北航计算机学院11级。haha
 
 ### More Information
 
